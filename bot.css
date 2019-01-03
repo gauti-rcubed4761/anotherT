@@ -1,0 +1,34 @@
+ .size {
+    height: 40px;
+    width: 40px;
+
+ }
+
+ .style {
+    width: 400px;
+
+ }
+
+ .margin {
+    margin-top: 50px;
+ }
+
+ .he {
+    background-image: url("./project5.jpg");
+    height: 600px;
+ }
+
+ .sty {
+
+    height: 50px;
+    width: 300px;
+    margin-left: 23%;
+
+ }
+
+ #map {
+    height: 300px;
+     border:black 2px solid;
+    width:50%;
+ 
+ }
